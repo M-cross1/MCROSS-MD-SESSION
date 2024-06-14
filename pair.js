@@ -57,15 +57,16 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'EDNUT-MD;;;' + b64data });
 
                let SIGMA_MD_TEXT = `
-┌⟝——————ᙍ 𝐋𝐄𝐎 🦁 𝐌𝐃 ᙊ
-┃ 〖 *Leo-md* Scanned successfully 〗
-┃ *Author:* https://wa.me/2348083653552
-┃ *Github:* https://github.com/Johnleo666
-┃ *Channel:* https://whatsapp.com/channel/0029VaaKnqA4NVib8XMwyw2T
-┃  *Support* *group*:https://chat.whatsapp.com/H9nDGEI6njXLadf4qWU1MQ
+┌⟝——————◀︎ 𝙴𝙳𝙽𝚄𝚃-𝙼𝙳 🔥
+┃ ◀︎ Ednut-md paired successfully 🕊✘
+┃ Developer:- https://wa.me/2348102487241
+┃ Github:- https://github.com/Ednut001
+┃ Channel:- https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w
+┃ Support:- https://chat.whatsapp.com/EgiP4a7pC6kCNXkRpcC1xA
 ┃ 
-┃ *Don't provide your session ID to anyone* .
-└⟝——————ᙍ 𝐋𝐄𝐎 🦁 𝐌𝐃 ᙊ`
+┃ Make sure you provide session id to someone you trust only ⚠️ .
+└ - - - -𝙴𝙳𝙽𝚄𝚃 𝙼𝙳 ✤
+> powered by Ednut Md 2024`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
