@@ -57,17 +57,17 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'EDNUT-MD;;;' + b64data });
 
                let SIGMA_MD_TEXT = `
-┌⟝——————◀︎ 𝙴𝙳𝙽𝚄𝚃-𝙼𝙳 🔥
-┃ ◀︎ Ednut-md paired successfully 🕊✘
-┃ Developer:- https://wa.me/2348102487241
+┌⟝——————◀︎ 𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒 🔥
+┃ ◀︎ Mcross-md paired successfully 🕊✘
+┃ Developer:- https://wa.me/2349042566473
 ┃ Github:- https://github.com/Ednut001
-┃ Channel:- https://whatsapp.com/channel/0029VaZAY2P4yltOvNaegY2w
-┃ Support:- https://chat.whatsapp.com/EgiP4a7pC6kCNXkRpcC1xA
+┃ Channel:- https://Wa.me/2349042566473?text=Boss%20ＫＩＮＧ🍀Ｍ-ＣＲＯＳＳ%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅
+┃ Support:- 𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒
 ┃ 
 ┃ Make sure you provide session id to someone you trust only ⚠️ .
-└ - - - -𝙴𝙳𝙽𝚄𝚃 𝙼𝙳 ✤
-> powered by Ednut Md 2024`
- await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
+└ - - - -😈𝐃𝐄𝐌𝐎𝐍 𝐌-𝐂𝐑𝐎𝐒𝐒😈 ✤
+> powered by Mcross Md 2024`
+ await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:MCROSS_MD_TEXT},{quoted:session})
  
 
         await delay(100);
